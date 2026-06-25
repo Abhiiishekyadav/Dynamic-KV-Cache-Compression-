@@ -26,5 +26,7 @@ Example configurations and runtime integration for deploying compressed LLMs on 
 
 3) Compatible with PyTorch ≥ 2.1, tested on both CPU and GPU environments.
 
+ **PAPER LINK:**  https://ieeexplore.ieee.org/abstract/document/11562780
+
 **For any queries, contact:**
 yadav.49@iitj.ac.in, m23eev006@iitj.ac.in.
